@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Go ahead and fork this repository before cloning to your local computer! 😊
+=======
+Go ahead and fork this repository before cloning to your local computer! 😊
+>>>>>>> 837038fa54a2822ab65aba4a435c0848233b14d1
